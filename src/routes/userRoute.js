@@ -31,7 +31,7 @@ const createUserHandler = async (request, h) => {
             statusCode: "200",
             error: "",
             message: "Sukses terupload",
-            content: user
+            content: users
         }
     }
     catch (error) {
