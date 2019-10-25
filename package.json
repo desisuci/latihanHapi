@@ -1,7 +1,7 @@
 {
   "name": "hapissequilize",
   "version": "1.0.0",
-  "description": "",
+  "description": "Use  comand line or teminal\r ```bash\r npm install / yarn install\r ```",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,6 +20,7 @@
     "@hapi/hapi": "^18.4.0",
     "@hapi/joi": "15.1.1",
     "mysql2": "^1.7.0",
+    "nodemon": "^1.19.4",
     "sequelize": "^5.21.1"
   }
 }
